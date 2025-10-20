@@ -1,0 +1,10 @@
+python-telegram-bot>=20.7
+opencv-python>=4.8.0
+numpy>=1.26.0
+pynput>=1.7.6
+pyautogui>=0.9.54
+psutil>=5.9.6
+pycryptodome>=3.15.0
+pywin32>=306
+cryptography>=3.4.8
+pyaudio>=0.2.11
