@@ -1,4 +1,4 @@
-# 🦆 Duck Rat
+# 🦆DuckRat
 
 <div align="center">
   <img src="duckrat.png" alt="Duck Rat Interface" width="400" style="transform: rotate(90deg);"/>
@@ -7,26 +7,26 @@
   [![Telegram](https://img.shields.io/badge/Telegram-Bot-0088cc.svg)](https://telegram.org)
 </div>
 
-## 🚀 Kurulum
+## 🚀 Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## ⚙️ Kullanım
+## ⚙️ Usage
 
-1. `telegram_rat.py` dosyasında token-chatid ayarlayınız
-2. `python telegram_rat.py` ile başlatın
+1. Set token-chatid in `telegram_rat.py` file
+2. `python telegram_rat.py` Launch with
 
-## 🎯 Özellikler
+## 🎯 Features
 
-- 📸 Ekran görüntüsü ve kamera
+- 📸 Screenshot and camera
 - ⌨️ Keylogger
-- 🖥️ Sistem yönetimi
-- 🔐 Chrome şifreleri
-- 💻 Shell komutları
-- 🔄 Otomatik başlatma
+- 🖥️ System management
+- 🔐 Chrome passwords
+- 💻 Shell commands
+- 🔄 Autostart
 
-## ⚠️ Uyarı
+## ⚠️ Warning
 
-Bu araç sadece kendi bilgisayarınızda kullanılmalıdır.
+This tool should only be used on your own computer.
